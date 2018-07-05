@@ -1,1 +1,1 @@
-print ("good bye Huy Huy")
+print ("1")
