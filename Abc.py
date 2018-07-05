@@ -1,2 +1,1 @@
-print ("good bye")
-print("hello")
+print ("20")
