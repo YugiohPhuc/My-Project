@@ -1,2 +1,1 @@
-hello everybody
-
+print('Goodbye Everybody')
